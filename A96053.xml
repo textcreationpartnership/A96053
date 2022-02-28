@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance and declaration of His Excellencie Robert E. of VVarwick, Lord High Admirall of England; concerning the King, Parliament, Army, and kingdome. And his protestation and resolution, to the citizens of London, and all other His Majesties liege people, touching his engagement, for religion, Parliament, and kingdome. Subscribed, Warwick. Also, a letter and declaration from the Navy, to the apprentices of the City of London, and the mariners and water-men upon the river of Thames; containing their full resolution touching the Army. With the desires and proposals of the citizens of London, to his Excellency the Lord Gen. Fairfax, touching the horse and foot who are quartered in the city, and the general answer thereunto.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96053</idno>
+            <idno type="STC">Wing W1009</idno>
+            <idno type="STC">Thomason E476_21</idno>
+            <idno type="STC">ESTC R205492</idno>
+            <idno type="EEBO-CITATION">99864856</idno>
+            <idno type="PROQUEST">99864856</idno>
+            <idno type="VID">162504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162504)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance and declaration of His Excellencie Robert E. of VVarwick, Lord High Admirall of England; concerning the King, Parliament, Army, and kingdome. And his protestation and resolution, to the citizens of London, and all other His Majesties liege people, touching his engagement, for religion, Parliament, and kingdome. Subscribed, Warwick. Also, a letter and declaration from the Navy, to the apprentices of the City of London, and the mariners and water-men upon the river of Thames; containing their full resolution touching the Army. With the desires and proposals of the citizens of London, to his Excellency the Lord Gen. Fairfax, touching the horse and foot who are quartered in the city, and the general answer thereunto.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Woolridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes several letters signed: T. Fairfax.</note>
+                  <note>Annotation on Thomason copy: "Dec: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Barracks and quarters --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162504:1" rendition="simple:additions"/>
+            <p>THE REMONSTRANCE <hi>AND</hi> DECLARATION OF HIS EXCELLENCIE Robert E. of Warwick, Lord High Admirall of <hi>ENGLAND; CONCERNING</hi> The KING, PARLIAMENT, ARMY, and KINGDOME.</p>
+            <p>
+               <hi>AND</hi> His Proteſtation and Reſolution, to the Citizens of <hi>London,</hi> and all other His Majeſties liege People, touching his Engagement, for Religion, Parliament, and Kingdome.</p>
+            <p>Subſcribed, <hi>WARWICK.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> A Letter and Declaration from the Navy, to the Apprentices of the City of <hi>London,</hi> and the Mariners and Water-men upon the River of <hi>Thames;</hi> containing their fvll Reſolution touching the <hi>Army.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> The Deſires and Propoſals of the Citizens of <hi>London,</hi> to his Excellency the Lord Gen. <hi>Fairfax,</hi> touching the Horſe and Foot who are quartered in the City, and the Generals Anſwer thereunto.</p>
+            <p>LONDON, Printed for JOHN WOOLRIDGE, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162504:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:162504:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>THE DECLARATIGN Of the Earl of WARWICK Concerning the Parliament and Army.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">W</seg>Hereas both Houſes of Parliament have bin plea<g ref="char:EOLhyphen"/>ſed to intrust me with the charge of the Fleet, for the preſervation and ſafety of the place of my Nativity, I ſhall therefore indeavour to im<g ref="char:EOLhyphen"/>prove that Authority committed to me, with a faithfull and inviolable reſpect unto my duty. And foraſmuch, that when I firſt undertook this great charge, I was ſenſible how much the Cauſe, Truth, and Glory of God, the ſettlement of my Countries peace, and the preventing of the bloudy and deſperate deſigns of the Enemies thereof, depended upon the management of this expedition, and how much I was obliged in Conſcience and Honour to omit nothing that might have a tendency to thoſe ends. That obligation I have (according to my beſt reaſon
+<pb n="2" facs="tcp:162504:3"/>and judgment) faithfully diſcharged, and by the bleſſing of Heaven have received this fruit (notwithstanding the many obſtructions and difficulties that intervened) that the honour of the Parl. by Sea is cleared, the Fleet committed to my charge preſerved in a condition of honour and ſafety, the affections of the Seamen ſetled, the deſign of thoſe wicked Revolters, that perſidiouſly betrayed ſo conſiderable a part of the Kingdomes Navy broken, and ſuch as aſsociated with them either rende<g ref="char:EOLhyphen"/>red or reduced.</hi>
+                  </p>
+                  <p>
+                     <hi>And as to the aſperſion and pretended reſolution of my joy<g ref="char:EOLhyphen"/>ning with the Prince, in caſe an agreement be not concluded of between the King and parliament, I do profeſse in the preſence of God, who knowes my heart and wayes, that it never entred into my thoughts, and that my ſoul abhors it as inconſistent inconſistent with my Duty prejudiciall to the Parliament, de<g ref="char:EOLhyphen"/>ſtructive to the Kingdoms peace, and unworthy of a free borne Engliſh man.</hi>
+                  </p>
+                  <p>
+                     <hi>And therefore, as I have hither to been faithfull to the King<g ref="char:EOLunhyphen"/>dom, and to the Parliament, where I have the honour to ſit as a Peer, ſo I do and ſhall ſcorn to ſacrifice my conſcience, &amp; thoſe publike and dear concernments of my Countrey, wherein I have a pertion.</hi>
+                  </p>
+                  <p>
+                     <hi>And while I have a heart, and a hand, I ſhall not faile (by Gods aſſistance) to have them on all occaſions, lifted up, for the ſervice of the parliament, and common intereſts of</hi> England, <hi>with my uttermoſt integrity, and to my higheſt hazard.</hi>
+                  </p>
+                  <closer>
+                     <signed>Subſcribed, <hi>WARWICK.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Decemb.</hi> 13. Letters further from the Navy ſay, That his Excellency the Lord Admirall, upon receipt of the intelli<g ref="char:EOLhyphen"/>gence, that the Army had ſeized on divers members of par<g ref="char:EOLhyphen"/>liament,
+<pb n="3" facs="tcp:162504:3"/>and entred the City of <hi>London,</hi> his Lordſhip de<g ref="char:EOLhyphen"/>clared. <hi>That he wiſhed well to the peace of this famous Metro<g ref="char:EOLhyphen"/>polis, and deſired that the principles whereon the Army have fixed their reſolutions, may prove a ſoveraign Cordiall, to heal the diſeaſed and corrvpted <hi>Ulcers</hi>of this bleeding Kingdome, and that their preſent Engagement may conduce to the glory of God, the liberty and freedom of the people, and the peace and tranquility of the Common-weale of England, throughout all future Ages and Generations.</hi>
+            </p>
+         </div>
+         <div type="proposals_to_Lord_Fairfax">
+            <head>New propoſitions from the City of London, to the Lord Generall <hi>Fairfax</hi>
+            </head>
+            <p>A copy whereof followeth, <hi>viz.</hi> 1 That the City for their ſecurity of 40000 <hi>l.</hi> deſired, may have all the arrears upon any aſſeſments made for this army within <hi>London,</hi> and the Liberties thereof, which did grow due to be paid before the 25. of <hi>March</hi> laſt, freed from all ingagements. 2 And of thoſe arreares all that money paid into the Treaſury ſinde the 30. of <hi>Novemb.</hi> laſt, to be accounted part of the 40000. peſired. And that with the money received out uf Weavers hall, and the 5500. l. lately received of the Treaſurers, the reſt ſhall be paid on <hi>Munday</hi> next. 3. That a Common<g ref="char:EOLhyphen"/>councel have undertaken to diſcharge the Generals ingage<g ref="char:EOLhyphen"/>ments concerning the money taken out of Weavers Hall, to pay the ſame thither out of the ſaid arrears. 4 That the Common councel hath promiſed to get in the reſt of their arrears, and alſo to make the new aſſeſments for the ſixe moneths ending <hi>Michaelmas</hi> laſt, and to collect the ſame withall expedition. 5 And upon this ingagement they doe humbly pray, that the army may this night be withdrawn out of the City and Liberties thereof, according to the in<g ref="char:EOLhyphen"/>timation of col. <hi>VVhaley,</hi> and col. <hi>Thomlinſon.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162504:4"/>
+            <head>His Excellencies Anſwer to the ſaid Declaration and Propoſals.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>I <hi>Have peruſed your paper, and I find the point of ſecurity hath much troubled you and us, whereby we are yet without our money, and neceſſities daily grow upon us. To prevent which and to make things cleer (which I do not conceive your papers do) I deſire that you will within</hi> 14. <hi>daye, or ſooner if you pleaſe cauſe all the money charged upon the City of London for the Army until the</hi> 25. <hi>of March next, and in arrear. This being done, I ſhal both repay the Money from VVeavers Hall, and withdraw all the Forces from the City, the continuance of which in the City in the mean time, wil (I conceive) facilitate your work in collecting your ſaid monies.</hi>
+            </p>
+            <closer>
+               <signed>Subſcribed, T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Lord Generals Declaratson to the City.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving ſent ſo often to you for the arreares due from the City, and deſired ſums of money to be advanced by you, far ſhort of the ſums due from you, yet I have been delayed and denied, to the hazard of the army, and the pre<g ref="char:EOLhyphen"/>judice of others in the Suburbs upon whom they are quar<g ref="char:EOLhyphen"/>tered; wherefore I thought fit to ſend to ſeize the ſaid Tre<g ref="char:EOLhyphen"/>ſuries, and to ſend ſome forces into the City to quarter there untill I may be ſatisfied the Arrears due unto the Ar<g ref="char:EOLhyphen"/>my: and if this ſeem ſtrange unto you, 'tis no leſſe then that our forces have been ordered to do by the Parl. in the ſeve<g ref="char:EOLhyphen"/>rall Counties of the Kingdome where aſſeſments have not bin paid, and there to continue untill they have bin paid: and here give me leave to tell you, the Counties of the kingdom have born free quarter, and that in a great meaſure, for want of your paying your Arrears equally with them; wherfore,
+<pb n="5" facs="tcp:162504:4"/>theſe wayes if they diſlike you, yet they are meerly long of your ſelves, and are of as great regret to me and to the Ar<g ref="char:EOLhyphen"/>my as your ſelves, we wiſhing not only the good and pro<g ref="char:EOLhyphen"/>ſperity of your City, but that things may be ſo carried to<g ref="char:EOLhyphen"/>wards you, as may give no cauſe of jealouſie: I thought fit to let you know, that if you ſhall take a ſpeedy courſe to ſupply us with 40000. <hi>l.</hi> forthwith, according to my for<g ref="char:EOLhyphen"/>mer Deſire, and provide ſpeedily what alſo is in Arrear, I ſhall not only cauſe the monies in the Treaſuries to bee not made uſe of, but leave them to be diſpoſed of as right they might, and alſo cauſe my Forces to be withdrawn from be<g ref="char:EOLhyphen"/>ing in any ſort troubleſome or chargable to the City; And let the world judge whether this be not juſt and equal dea<g ref="char:EOLhyphen"/>ling with you. I reſt, My Lord,</p>
+            <closer>
+               <signed>Your affectionate ſervant, <hi>T. FAIRFAX.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Declaration from his Excellency the Lord Gen. <hi>Fairfax</hi> concerning the Excize, and the Citizens of London.</head>
+            <p>VVHereas upon the 8. of this inſtant moneth, a party of Horſe and Foot came to the Excize Office in Broadſtreet, which perhaps will occaſion ſome to think the Army came thither with a purpoſe to interrupt any more levying of the Excive; Theſe are to declare, and aſſure them, that the ſaid Forces came thither by a miſtake, and that there was not any intentions to give interruption unto the due levying of the Excize, or to ſeize upon any money in Caſh; and that you may proceed as formerly, ac<g ref="char:EOLhyphen"/>cording to thoſe Ordinances, and Orders of Parliament, which you have received concerning the ſame.</p>
+            <closer>
+               <signed>Subſcribed, <hi>T. FAIRFAX.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Severall Propoſals have been preſented to the Houſe of Commons, by Col. <hi>VVhaley,</hi> in the name of the Officers and Souldiers of the Army, in order to an impeachment againſt
+<pb n="6" facs="tcp:162504:5"/>Major Gen. <hi>Brown,</hi> and divers other Members now under reſtraint: Whereupon the Houſe ordered that a Commit<g ref="char:EOLhyphen"/>tee ſhould be appointed to treat with his Excellency, con<g ref="char:EOLhyphen"/>cerning the ſaid Members.</p>
+               <p>Sir, Since the coming in of the revolted ſhips, moſt of the Mariners have entred into a new Proteſtation and En<g ref="char:EOLhyphen"/>gagemen; which is, That they will ſacrifice all that is neare and dear unto them, for preſervation of the Laws, Liberties, and Freedoms, of their Native and Fellow Commoners of this Nation; and that they will ſacrifice both lives and for<g ref="char:EOLhyphen"/>tunes, with the Army, under the Authority and Conduct of his Excellency the Lord Gen. <hi>Fairfax,</hi> for the accompli<g ref="char:EOLhyphen"/>ſhing thoſe good ends, cited in their late Remonſtrance, that ſo much conduceth to the peace and welfare of this blee<g ref="char:EOLhyphen"/>ding Nation; and that it may take deepe impreſſion in the hearts of all men, who profeſſe themſelves lovers of Righ<g ref="char:EOLhyphen"/>teouſneſſe, and Practitioners in the Art of Navigation, they unanimouſly reſolved to communicate the ſame, to all Ma<g ref="char:EOLhyphen"/>riners whatſoever, upon the River of Thames, or elſe where; to the end, that none may appear oppoſite, or diſſenting, to the faciliating of ſo great a Work.</p>
+               <closer>
+                  <dateline>Aboard the St. George <date>11. Decem. 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
